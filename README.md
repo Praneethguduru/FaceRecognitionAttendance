@@ -1,6 +1,6 @@
-# FaceRecognition
+# FaceRecognitionAttendance
 
-**Facial Recognition System** is a Python-based application that detects and recognizes faces in real-time using **OpenCV** and pre-trained **Haar Cascade classifiers**. It can be used for attendance systems, security, and identity verification.
+**Facial Recognition Attendance System** is a Python-based application that detects and recognizes faces in real-time using **OpenCV** and pre-trained **Haar Cascade classifiers**. It can be used for attendance systems, security, and identity verification.
 
 ## Features
 
